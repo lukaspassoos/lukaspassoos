@@ -23,12 +23,14 @@ Atualmente, venho consolidando minha transição/evolução para a área de **De
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📌 Resumo Profissional & Destaques
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-themr.vercel.app/api?username=lukaspassoos&show_icons=true&theme=radial&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats-eight-themr.vercel.app/api/top-langs/?username=lukaspassoos&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
-</p>
+> 🎯 **Objetivo:** Atuar no desenvolvimento de soluções de software e gestão de bancos de dados relacionais.
+
+* 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (ADS).
+* 💼 **Experiência:** 5+ anos em TI como Analista de Suporte Sênior.
+* 🗄️ **Diferencial Técnico:** Ampla vivência em consultas e rotinas SQL na prática profissional (HeidiSQL/PostgreSQL).
+* ⚙️ **Conhecimentos em Dev:** HTML, CSS, JavaScript, Python e Versionamento Git/GitHub.
 
 ---
 
