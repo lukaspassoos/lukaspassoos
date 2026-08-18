@@ -27,7 +27,7 @@ Atualmente, venho consolidando minha transição/evolução para a área de **De
 
 > 🎯 **Objetivo:** Atuar no desenvolvimento de soluções de software e gestão de bancos de dados relacionais.
 
-* 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (ADS).
+* 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (ADS) — **3º Período**.
 * 💼 **Experiência:** 5+ anos em TI como Analista de Suporte Sênior.
 * 🗄️ **Diferencial Técnico:** Ampla vivência em consultas e rotinas SQL na prática profissional (HeidiSQL/PostgreSQL).
 * ⚙️ **Conhecimentos em Dev:** HTML, CSS, JavaScript, Python e Versionamento Git/GitHub.
