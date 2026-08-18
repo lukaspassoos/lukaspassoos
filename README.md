@@ -26,8 +26,8 @@ Atualmente, venho consolidando minha transição/evolução para a área de **De
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukaspassoos&show_icons=true&theme=radial&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaspassoos&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-eight-themr.vercel.app/api?username=lukaspassoos&show_icons=true&theme=radial&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats-eight-themr.vercel.app/api/top-langs/?username=lukaspassoos&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
 </p>
 
 ---
