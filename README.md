@@ -1,4 +1,4 @@
-# Olá! Sou o Lucas Passos 👋
+# Olá! Sou o Lucas Passos
 
 ![Analista de Suporte Sênior & Estudante de ADS](https://img.shields.io/badge/Focus-Desenvolvimento%20%26%20Bancos%20de%20Dados-blue?style=for-the-badge)
 
