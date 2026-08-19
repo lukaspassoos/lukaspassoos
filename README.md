@@ -10,12 +10,12 @@ Atualmente, venho consolidando minha transição/evolução para a área de **De
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Bancos de Dados & SQL**
+**Bancos de Dados & SQL** 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-00599C?style=flat-square)
 
-**Desenvolvimento Web**
+**Desenvolvimento Web** 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
